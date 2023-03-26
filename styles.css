@@ -3,6 +3,7 @@
 }
 .navbar{
     box-shadow: 3px 3px 10px rgb(84, 78, 78);
+    padding: 0.3%;
 
 }
 .navbar img{
@@ -26,6 +27,13 @@ h1{
 }
 h4{
     margin: 1px;
+}
+#mainbutton{
+    position:fixed;
+    z-index: 2;
+    margin-top: 75%;
+    margin-left: 80%;
+    display: ;
 }
 .cradspacind{
     margin-top: 10px;
