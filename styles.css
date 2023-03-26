@@ -1,0 +1,31 @@
+body{
+    background-image: url("images/background image.jpg");
+    /* margin-bottom: 10px; */
+}
+.container{
+    margin-bottom: 10px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin: 0.1px 0.5px;
+}
+.heading{
+    text-align: center;
+    text-decoration: underline rgb(93, 93, 111);
+    word-spacing: 10px;  
+}
+h1{
+    color: rgb(100, 110, 112);
+    
+}
+h4{
+    margin: 1px;
+}
+.cradspacind{
+    margin-top: 10px;
+    box-shadow: gray 3px 3px 3px;
+}
+.cradspacind li{
+    margin-bottom: 10px;
+}
