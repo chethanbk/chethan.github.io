@@ -1,14 +1,17 @@
-body{
-    /* background-image: url("images/background image.jpg"); */
-    /* margin-bottom: 10px; */
-}
 .container{
     margin-bottom: 10px;
 }
-img{
-    width: 100px;
-    height: 100px;
-    margin: 0.1px 0.5px;
+.navbar{
+    box-shadow: 3px 3px 10px rgb(84, 78, 78);
+
+}
+.navbar img{
+    width: 80;
+    height: 70px;
+    margin-left: 10px;
+}
+.navlinks a{
+    margin: 10px;;
 }
 .heading{
     text-align: center;
