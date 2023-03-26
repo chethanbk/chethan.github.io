@@ -7,8 +7,10 @@
 }
 .navbar img{
     width: 80;
-    height: 70px;
-    margin-left: 10px;
+    height: 80px;
+    margin-left: 3px ;
+    margin-top: none;
+    margin-bottom: none;
 }
 .navlinks a{
     margin: 10px;;
@@ -20,7 +22,7 @@
 }
 h1{
     color: rgb(100, 110, 112);
-    
+    margin-left: 15%;
 }
 h4{
     margin: 1px;
@@ -31,4 +33,17 @@ h4{
 }
 .cradspacind li{
     margin-bottom: 10px;
+}
+.footer {
+    background-color: lightblue;
+    text-align: center;
+    padding-top: auto 5px;
+    margin-top:20px;
+    color: aliceblue;
+}
+.footlinks a{
+    margin: 1%;
+}
+.footlinks p{
+    margin: 0;
 }
